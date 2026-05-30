@@ -1,10 +1,10 @@
-# 👹 DemonTech
+# 👹 DemonDie
 
 > Building innovative solutions, empowering developers, and creating technology that makes an impact.
 
 ## 🚀 About Us
 
-DemonTech is a technology-driven organization focused on developing innovative software solutions, contributing to open source, and fostering a community of passionate developers.
+DemonDie is a technology-driven organization focused on developing innovative software solutions, contributing to open source, and fostering a community of passionate developers.
 
 We believe in:
 
@@ -64,7 +64,7 @@ Our mission is to create meaningful technology, encourage open-source contributi
 
 ## 🌟 Open Source First
 
-At DemonTech, we believe open source drives innovation.
+At DemonDie, we believe open source drives innovation.
 
 We actively:
 - Maintain open-source repositories
@@ -102,7 +102,7 @@ Every contribution matters.
 
 - 🌐 Website: Coming Soon
 - 💼 LinkedIn: Coming Soon
-- 📧 Email: contact@demontech.dev
+- 📧 Email: rishibhardwaj1210@gmail.com
 
 ---
 
@@ -121,6 +121,6 @@ If you like what we're building:
 
 ### "Code. Create. Conquer."
 
-Made with ❤️ by the DemonTech Team
+Made with ❤️ by the DemonDie Team
 
 </div>
