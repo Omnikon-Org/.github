@@ -100,9 +100,10 @@ Every contribution matters.
 
 ## 📬 Connect With Us
 
-- 🌐 Website: Coming Soon
+- 🌐 Website: https://demondie.vercel.app/
 - 💼 LinkedIn: Coming Soon
 - 📧 Email: rishibhardwaj1210@gmail.com
+- 📞 Discord: https://discord.gg/yWtjK2Tb8T
 
 ---
 
