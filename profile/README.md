@@ -1,3 +1,9 @@
+🌐 Website: https://demondie.vercel.app/
+
+💬 Discord: https://discord.gg/yWtjK2Tb8T
+
+⭐ Star the repo if you want to support the project
+
 # 👹 DemonDie
 
 > Building innovative solutions, empowering developers, and creating technology that makes an impact.
