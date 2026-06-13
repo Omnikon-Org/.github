@@ -2,7 +2,7 @@
 
 > Building innovative technology, empowering developers, and creating solutions that make an impact.
 
-**Website:** [https://demondie.vercel.app](https://demondie-website.vercel.app/)
+**Website:** [Click on me](https://demondie-website.vercel.app/)
 **Discord:** https://discord.gg/yWtjK2Tb8T
 
 ---
