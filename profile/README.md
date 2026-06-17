@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Demon-Die/.github/main/profile/banner.png" alt="DemonDie Banner" width="100%" />
+<img src="https://github.com/user-attachments/assets/b89647d1-3c4e-405c-b951-cfb88fc596ca" alt="DemonDie Banner" width="100%" />
 
 # DemonDie
 
