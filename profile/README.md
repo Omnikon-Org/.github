@@ -9,7 +9,7 @@
 
 An open-source organization focused on developer tools, AI, automation, and real-world products.
 
-[Website](https://Omnikon-website.vercel.app) · [Discord](https://discord.gg/yWtjK2Tb8T) · [LinkedIn](https://www.linkedin.com/in/Omnikon-org/) · [X](https://x.com/OmnikonOrg)
+[Website](https://omnikonorg.vercel.app/) · [Discord](https://discord.gg/yWtjK2Tb8T) · [LinkedIn](https://www.linkedin.com/in/Omnikon-org/) · [X](https://x.com/OmnikonOrg)
 
 **Learn · Build · Contribute · Grow**
 
