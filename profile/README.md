@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/b89647d1-3c4e-405c-b951-cfb88fc596ca" alt="DemonDie Banner" width="100%" />
+<img width="1774" height="887" alt="ChatGPT Image Jun 26, 2026, 11_44_47 PM" src="https://github.com/user-attachments/assets/80e6ef43-e325-45cd-b6b2-db834681109d" />
 
-# DemonDie
+
+# Omnikon
 
 **Building Products. Empowering Developers. Creating Impact.**
 
 An open-source organization focused on developer tools, AI, automation, and real-world products.
 
-[Website](https://demondie-website.vercel.app) · [Discord](https://discord.gg/yWtjK2Tb8T) · [LinkedIn](https://www.linkedin.com/in/demondie-org/) · [X](https://x.com/DemonDieOrg)
+[Website](https://Omnikon-website.vercel.app) · [Discord](https://discord.gg/yWtjK2Tb8T) · [LinkedIn](https://www.linkedin.com/in/Omnikon-org/) · [X](https://x.com/OmnikonOrg)
 
 **Learn · Build · Contribute · Grow**
 
@@ -18,9 +19,9 @@ An open-source organization focused on developer tools, AI, automation, and real
 
 ---
 
-## About DemonDie
+## About Omnikon
 
-DemonDie is a community-driven technology organization dedicated to building innovative software, empowering developers, and contributing meaningful solutions to the open-source ecosystem.
+Omnikon is a community-driven technology organization dedicated to building innovative software, empowering developers, and contributing meaningful solutions to the open-source ecosystem.
 
 We believe the best way to learn is by building.
 
@@ -120,7 +121,7 @@ Internal tooling for tracking community contributions and tasks.
 - Centralized task tracking
 - Contributor visibility
 - Streamlined workflows
-- Built for the DemonDie team
+- Built for the Omnikon team
 
 </td>
 </tr>
@@ -189,7 +190,7 @@ Internal tooling for tracking community contributions and tasks.
 
 ## Open Source First
 
-At DemonDie, we believe open source drives innovation.
+At Omnikon, we believe open source drives innovation.
 
 Whether you're:
 
@@ -209,7 +210,7 @@ Our goal is to build products that solve real-world problems while creating an e
 **2026 Goals**
 
 - Launch multiple developer tools
-- Expand the DemonDie ecosystem
+- Expand the Omnikon ecosystem
 - Support hundreds of contributors
 - Build products used worldwide
 - Grow a thriving global community
@@ -232,15 +233,15 @@ We welcome contributors of all skill levels.
 
 | Platform | Link |
 |---|---|
-| Website | [demondie-website.vercel.app](https://demondie-website.vercel.app) |
+| Website | [Omnikon-website.vercel.app](https://Omnikon-website.vercel.app) |
 | Discord | [discord.gg/yWtjK2Tb8T](https://discord.gg/yWtjK2Tb8T) |
-| LinkedIn | [linkedin.com/in/demondie-org](https://www.linkedin.com/in/demondie-org/) |
-| X (Twitter) | [x.com/DemonDieOrg](https://x.com/DemonDieOrg) |
-| GitHub | [github.com/Demon-Die](https://github.com/Demon-Die) |
+| LinkedIn | [linkedin.com/in/Omnikon-org](https://www.linkedin.com/in/Omnikon-org/) |
+| X (Twitter) | [x.com/OmnikonOrg](https://x.com/OmnikonOrg) |
+| GitHub | [github.com/Demon-Die](https://github.com/Omnikon-Org) |
 
 ---
 
-## Support DemonDie
+## Support Omnikon
 
 If you believe in what we're building:
 
@@ -260,6 +261,6 @@ Every contribution helps us move forward.
 
 Building the future, one project at a time.
 
-**Made with care by the DemonDie Community**
+**Made with care by the Omnikon Community**
 
 </div>
