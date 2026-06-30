@@ -1,6 +1,6 @@
 <div align="center">
+<img width="1983" height="793" alt="ChatGPT Image Jun 30, 2026, 08_48_24 AM" src="https://github.com/user-attachments/assets/25a01ed1-155d-4ff8-95ab-a1a8189c68cf" />
 
-<img width="1774" height="887" alt="ChatGPT Image Jun 26, 2026, 11_44_47 PM" src="https://github.com/user-attachments/assets/80e6ef43-e325-45cd-b6b2-db834681109d" />
 
 
 # Omnikon
